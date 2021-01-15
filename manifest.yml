@@ -1,13 +1,7 @@
-declared-services:
-  my-tone-analyzer-service:
-    label: tone_analyzer
-    plan: lite
+---
 applications:
-applications:
-- services:
-  - my-tone-analyzer-service
   name: tone-analyzer-demo
-  name: tone-analyzer-demo
-  command: npm start
   command: npm start
   path: .
+  instances: 2
+  memory: 256MB
