@@ -1,6 +1,6 @@
 ---
 applications:
-  name: my-app-name
+  name: Tone Analyzer-8w
   command: npm start
   path: .
   instances: 2
