@@ -1,6 +1,6 @@
 ---
 applications:
-  name: tone-analyzer-demo
+  name: tone-analyzer-fsolias
   command: npm start
   path: .
   instances: 2
