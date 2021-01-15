@@ -1,4 +1,3 @@
----
 applications:
   name: tone-analyzer-demo
   command: npm start
