@@ -1,5 +1,5 @@
 applications:
-  name: tone-analyzer-demo
+  name: my-app-name
   command: npm start
   path: .
   instances: 2
